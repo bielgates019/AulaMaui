@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TipCalculator.AboutPage"
+             Title="AboutPage">
+    <VerticalStackLayout>
+        <Label 
+            Text="Olá! Nós somos estudantes da Etec Professor Horácio Augusto da Silveira produzimos este aplicativo sob a tutela dos professores Guilherme e Victor. &#10; Este aplicativo para calcular o valor total incluindo a gorjeta qual for da preferência do cliente."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>
